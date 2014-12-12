@@ -62,4 +62,5 @@ Contributors
 
 
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/DavidDurman/joint/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+https://codeship.com/projects/YOUR_PROJECT_UUID/status?branch=master
 
